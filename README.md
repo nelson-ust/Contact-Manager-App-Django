@@ -41,7 +41,7 @@ python manage.py createsuperuser
 
 # Useful Websites
 
-* [Python](https://docs.oracle.com/en/java/javase/15/)
+* [Python](https://docs.python.org/3/)
 * [Stack Overflow](https://stackoverflow.com/)
 * [DJango Framework](https://docs.djangoproject.com/)
 * [Bootstrap](https://getbootstrap.com/docs/4.1/getting-started/introduction/)

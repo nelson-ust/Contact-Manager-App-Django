@@ -14,7 +14,7 @@
 
 ## How To Run
 ```
-git clone https://github.com/saadhaxxan/Contact-Manager-Django.git
+git clone https://github.com/nelson-ust/Contact-Manager-App-Django
 cd Contact-Manager-Django
 pip install -r requirements.txt
 python manage.py runserver

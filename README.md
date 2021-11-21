@@ -1,10 +1,28 @@
-<h1 align="center">Contact Manager App Django</h1>
+<h1 align="center">Contact Manager App With Django</h1>
 <a href="#">
   <div align="center">
     <img src="screenshot.png" width='700'/>
   </div>
 </a>
+# Overview
 
+This is a simple Contact Management web application that demonstrates the use of Python, Object oriented programming, Django framework, SQL and CRUD operations .
+
+
+The application integrates a Python web application into an SQLIte DB in a way to demontrating basic CRUD (Create,Read,Update and Delete) operations.
+To use this Application follow these step: 
+
+```
+git clone https://github.com/nelson-ust/Contact-Manager-App-Django
+cd Contact-Manager-Django
+pip install -r requirements.txt
+python manage.py runserver
+```
+
+```
+To Access the Admin Panel
+python manage.py createsuperuser
+```
 ## Functionalities
 - [x] User Authentication
 - [x] Gender Based Search
@@ -12,17 +30,22 @@
 - [x] User Authorization
 - [x] Profile Image
 
-## How To Run
-```
-git clone https://github.com/nelson-ust/Contact-Manager-App-Django
-cd Contact-Manager-Django
-pip install -r requirements.txt
-python manage.py runserver
-```
-## Access to the Admin Panel
-```
-python manage.py createsuperuser
-```
+[Software Demo Video](http://youtube.link.goes.here)
+
+# Development Environment
+
+1. Visual studio Code was the development tool used in developing this App. This is one of my favorites because it is lightweight and flexible. 
+2. The Python programming language with python3 was used to complete this project. It is very easy to use,  unique language and serves as a multi purpose language. I used the DJango framework alongside SQLIte DB and Bootstrap library for the UI
+3. I used GitHub for version control. 
+
+
+# Useful Websites
+
+* [Python](https://docs.oracle.com/en/java/javase/15/)
+* [Stack Overflow](https://stackoverflow.com/)
+* [DJango Framework](https://docs.djangoproject.com/)
+* [Bootstrap](https://getbootstrap.com/docs/4.1/getting-started/introduction/)
+
 
 ## Author
 You can get in touch with me on my LinkedIn Profile:
@@ -35,5 +58,3 @@ You can also follow my GitHub Profile to stay updated about my latest projects: 
 
 If you liked the repo then kindly support it by giving it a star ⭐!
 
-## LICENSE
-- MIT (2021)

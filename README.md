@@ -4,6 +4,7 @@
     <img src="screenshot.png" width='700'/>
   </div>
 </a>
+
 # Overview
 
 This is a simple Contact Management web application that demonstrates the use of Python, Object oriented programming, Django framework, SQL and CRUD operations .
